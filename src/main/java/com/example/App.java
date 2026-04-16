@@ -1,4 +1,4 @@
-package com.library.app;
+package com.example;
 
 import java.util.Scanner;
 import java.util.ArrayList;
